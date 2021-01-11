@@ -7,7 +7,7 @@
 
 1) Group Leader: Kaley Kaukinen
 
-2) Dylan Souvage
+2) Backup Leader: Dylan Souvage
 
 3) Andrew Kornelsen
 
