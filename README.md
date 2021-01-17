@@ -24,7 +24,7 @@ These days, more and more businesses or organisations are investing in software 
 
 We are proposing a solution to this problem by developing a web application that small business owners can use to easily manage their small business without the overhead that can come with an overly complex solution, getting to the point quickly, allowing for quick onboarding and ease of effective use of the software.
 
-### Objectives** :
+### Objectives:
 
 The goal of this application is to provide an intuitive and accessible application that small business owners can use to effectively manage their business without adding additional overhead costs and help minimize stress. By providing an easy to understand system, the application will aid owners in managing and organizing the more mundane and confusing aspects of operating a business.
 
