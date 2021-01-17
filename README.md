@@ -1,8 +1,8 @@
-# TeamFireball
+
+# COSC 4P02 Team Fireball Project Proposal 
 This is a repository for TeamFireball 4p02 at Brock U
 
-
-COSC 4P02 Team Fireball Project Proposal - Small Business Management Application
+## Small Business Management Application
 
 **Team Members:**
 
@@ -48,55 +48,21 @@ This business management application is targeted towards small business owners w
 
 Daily Scrums take place in Discord, while we have weekly meetings every friday at 12:00pm on Microsoft Teams.
 
-| Week 1: Jan 10 – 15 |
-- First team meeting
-- Finalize Project Idea
-- Proposal Due Jan 17th @ 11:55pm (10%)
- |
-| --- | --- |
-| Week 2: Jan 17 – 22 |
-- Define requirements details and specifics
- |
-| Week 3: Jan 24 – 29 |
-- Sprint Review
-- Finalize requirements for Requirements Analysis and Architecture Design Due Feb 7th @ 11:55pm (20%)
- |
-| Week 4: Jan/Feb 31 – 5 |
-- Work on chosen Increment in sprint
- |
-| Week 5: Feb 7 – 12 |
-- Sprint Review
- |
-| Week 6: Feb 14 – 19 |
-- Work on chosen Increment in sprint
- |
-| Week 7: Feb 21 – 26 |
-- Sprint Review
-- Mandatory report due March 7th (15%)
- |
-| Week 8: Feb/March 28 – 5 |
-- Work on chosen Increment in sprint
- |
-| Week 9: March 7 – 12 |
-- Sprint Review
- |
-| Week 10: March 14 – 19 |
-- Work on chosen Increment in sprint
- |
-| Week 11: March 21 – 26 |
-- Sprint Review
-- Mandatory report due April 3rd (15%)
- |
-| Week 12: March/April 28 - 2 |
-- Work on chosen Increment in sprint
- |
-| Week 13: April 4 – 9 |
-- Sprint Review
- |
-| Week 14: April 11 – 16 |
-- Final Week
- |
-| Week 15: April 26 – 30 |
-- Final presentation (25%)
-- Tentative date
- |
+| Date | Goal |
+|--|--|
+| Week 1: Jan 10 – 15 | First team meeting, finalize Project Idea, Proposal Due Jan 17th @ 11:55pm (10%)|
+| Week 2: Jan 17 – 22  | Define requirements details and specifics |
+| Week 3: Jan 24 – 29  | Sprint Review, Finalize requirements for Requirements Analysis and Architecture Design Due Feb 7th @ 11:55pm (20%)|
+| Week 4: Jan/Feb 31 – 5  | Work on chosen Increment in sprint |
+| Week 5: Feb 7 – 12  | Sprint Review| 
+| Week 6: Feb 14 – 19 | Work on chosen Increment in sprint |
+| Week 7: Feb 21 – 26 | Sprint Review, Mandatory report due March 7th (15%) | 
+| Week 8: Feb/March 28 – 5 | Work on chosen Increment in sprint | 
+|  Week 9: March 7 – 12 | Sprint Review | 
+|  Week 10: March 14 – 19 |  Work on chosen Increment in sprint | 
+| Week 11: March 21 – 26 | Sprint Review, Mandatory report due April 3rd (15%) |
+| Week 12: March/April 28 - 2 | Work on chosen Increment in sprint |
+| Week 13: April 4 – 9 | Sprint Review |
+| Week 14: April 11 – 16 |  Final Week |
+|  Week 15: April 26 – 30 | Final presentation (25%), Tentative date |
+
