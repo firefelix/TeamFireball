@@ -4,7 +4,7 @@ This is a repository for TeamFireball 4p02 at Brock U
 
 ## Small Business Management Application
 
-**Team Members:**
+### Team Members:
 
 Kaley Kaukinen
 
@@ -16,7 +16,7 @@ Andrew Kornelsen
 
 Ryan Montminy
 
-**The Problem:**
+### The Problem:
 
 There will always be a variety of things going on when you are a small business owner. Handling so many tasks at once and not letting work get messy is a challenge. That&#39;s why it makes sense for organizations to start using applications for management.
 
@@ -24,7 +24,7 @@ These days, more and more businesses or organisations are investing in software 
 
 We are proposing a solution to this problem by developing a web application that small business owners can use to easily manage their small business without the overhead that can come with an overly complex solution, getting to the point quickly, allowing for quick onboarding and ease of effective use of the software.
 
-**Objectives** :
+### Objectives** :
 
 The goal of this application is to provide an intuitive and accessible application that small business owners can use to effectively manage their business without adding additional overhead costs and help minimize stress. By providing an easy to understand system, the application will aid owners in managing and organizing the more mundane and confusing aspects of operating a business.
 
@@ -32,7 +32,7 @@ Components such as order and product fulfillment, finance ledger, statistical in
 
 Small businesses will enable themselves to quickly and effectively organize their own business processes by utilizing this software. Instead of the owner having to deal with multiple complex pieces of software to manage each sector of their business, our product aims to simplify the process into an easy to navigate UI with everything in one place.
 
-**Importance:**
+### Importance:
 
 The COVID-19 pandemic has affected countless small businesses, and isolated them from support services they may have been using previously. By creating an easy to understand application, these owners will have the option to reduce additional costs and perform these services independently.
 
@@ -40,11 +40,11 @@ Reducing the amount of time and complexity revolving around the management of bu
 
 Small businesses bring innovation and growth to our economy. They require help now more than ever during current world events. We aim to have our small business management system lend a helping hand during these unprecedented times.
 
-**Overall Description:**
+### Overall Description:
 
 This business management application is targeted towards small business owners with teams varying from one to many. With the utilization of web technologies, this application is available on both desktop and mobile devices. Making an easy and accessible solution for the experienced, and inexperienced alike. Features including tracking financials, marketing, clients, orders, employees, and more. Also providing quick integration with external sites and business emails, for an all in one solution.
 
-**Timetable Following Scrum/Agile Framework:**
+### Timetable Following Scrum/Agile Framework:
 
 Daily Scrums take place in Discord, while we have weekly meetings every friday at 12:00pm on Microsoft Teams.
 
