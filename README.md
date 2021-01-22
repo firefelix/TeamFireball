@@ -4,6 +4,8 @@ This is a repository for TeamFireball 4p02 at Brock U
 
 ## Small Business Management Application
 
+MIGRATED TO https://dev.azure.com/ds16bz/TeamFireball
+
 ### Team Members:
 
 Kaley Kaukinen
